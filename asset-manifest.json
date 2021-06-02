@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/jedrick2/static/js/main.e6328937.chunk.js",
+    "main.js.map": "/jedrick2/static/js/main.e6328937.chunk.js.map",
+    "runtime-main.js": "/jedrick2/static/js/runtime-main.1ab5ec76.js",
+    "runtime-main.js.map": "/jedrick2/static/js/runtime-main.1ab5ec76.js.map",
+    "static/js/2.0e07700b.chunk.js": "/jedrick2/static/js/2.0e07700b.chunk.js",
+    "static/js/2.0e07700b.chunk.js.map": "/jedrick2/static/js/2.0e07700b.chunk.js.map",
+    "static/js/3.204039b6.chunk.js": "/jedrick2/static/js/3.204039b6.chunk.js",
+    "static/js/3.204039b6.chunk.js.map": "/jedrick2/static/js/3.204039b6.chunk.js.map",
+    "index.html": "/jedrick2/index.html",
+    "static/js/2.0e07700b.chunk.js.LICENSE.txt": "/jedrick2/static/js/2.0e07700b.chunk.js.LICENSE.txt",
+    "static/media/frenzy.f6b7d613.jpg": "/jedrick2/static/media/frenzy.f6b7d613.jpg",
+    "static/media/front_img.bc32dddd.png": "/jedrick2/static/media/front_img.bc32dddd.png",
+    "static/media/gaming-store.8726ade8.PNG": "/jedrick2/static/media/gaming-store.8726ade8.PNG",
+    "static/media/hotel.5934a727.PNG": "/jedrick2/static/media/hotel.5934a727.PNG",
+    "static/media/pos.6266402c.PNG": "/jedrick2/static/media/pos.6266402c.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ab5ec76.js",
+    "static/js/2.0e07700b.chunk.js",
+    "static/js/main.e6328937.chunk.js"
+  ]
+}
